@@ -1,0 +1,11 @@
+- page: index.md
+  label: Start here
+- group: Museum API
+  page: apis/openapi.yaml
+- group: Guides
+  selectFirstItemOnExpand: true
+  items:
+    - page: style-guide.md
+      label: Style guide
+- page: about.md
+  label: About
